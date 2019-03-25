@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbab1173-7705-4856-922d-0d44f35ec172" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CodeLab-2019-HW5/.idea/.idea.CodeLab-2019-HW5/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeLab-2019-HW5/.idea/.idea.CodeLab-2019-HW5/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeLab-2019-HW5/.idea/.idea.CodeLab-2019-HW5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CodeLab-2019-HW5/.idea/.idea.CodeLab-2019-HW5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW5/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW5/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW5/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW5/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeLab1-2019-HW5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,24 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CodeLab-2019-HW5/Assets/Scripts/levelLoader.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
               <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-              <folding>
-                <marker date="1552333684242" expanded="false" signature="6:111" ph="..." />
-                <marker date="1552333684242" expanded="true" signature="154:1563" ph="{...}" />
-                <marker date="1552333684242" expanded="true" signature="226:1482" ph="{...}" />
-                <marker date="1552333684242" expanded="true" signature="333:412" ph="{...}" />
-                <marker date="1552333684242" expanded="true" signature="525:1336" ph="{...}" />
-                <marker date="1552333684242" expanded="true" signature="629:1326" ph="{...}" />
-                <marker date="1552333684242" expanded="true" signature="658:1198" ph="/* if (line[x] == 'X') ... */" />
-                <marker date="1552333684242" expanded="true" signature="1264:1312" ph="{...}" />
-                <marker date="1552333684242" expanded="true" signature="1346:1476" ph="/* if (line[0] == &quot;X&quot;) ... */" />
-                <marker date="1552333684242" expanded="true" signature="1540:1561" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -37,18 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeLab-2019-HW5/Assets/Scripts/HighScoreManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
+            <state relative-caret-position="45">
               <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="13" />
-              <folding>
-                <marker date="1552328964535" expanded="true" signature="6:109" ph="..." />
-                <marker date="1552328964535" expanded="true" signature="158:1598" ph="{...}" />
-                <marker date="1552328964535" expanded="true" signature="315:1517" ph="{...}" />
-                <marker date="1552328964535" expanded="true" signature="455:868" ph="{...}" />
-                <marker date="1552328964535" expanded="true" signature="577:674" ph="{...}" />
-                <marker date="1552328964535" expanded="true" signature="877:944" ph="/* else //if the file does exist ... */" />
-                <marker date="1552328964535" expanded="true" signature="1063:1499" ph="{...}" />
-                <marker date="1552328964535" expanded="true" signature="1575:1596" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -59,7 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CodeLab-2019-HW5/Assets/Scripts/HighScoreManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CodeLab-2019-HW5/Assets/Scripts/HighScoreManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CodeLab-2019-HW5/Assets/Scripts/levelLoader.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -83,6 +62,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer">
         <subPane>
           <expand>
@@ -94,7 +74,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,6 +108,8 @@
       <option name="presentableId" value="Default" />
       <updated>1552324825843</updated>
       <workItem from="1552324828457" duration="8576000" />
+      <workItem from="1553493539175" duration="222000" />
+      <workItem from="1553493802706" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore update">
       <created>1552325083390</created>
@@ -148,7 +129,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8576000" />
+    <option name="totallyTimeSpent" value="8837000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -161,21 +142,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="32767" y="32767" width="1940" height="1100" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18351063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18776596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -183,19 +155,27 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info active="true" anchor="right" id="Unit Tests Coverage" visible="true" weight="0.03723404" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info active="true" anchor="right" id="Unit Tests Coverage" order="6" visible="true" weight="0.03723404" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore update" />
@@ -220,39 +200,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeLab-2019-HW5/Assets/Scripts/HighScoreManager.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <marker date="1552328964535" expanded="true" signature="6:109" ph="..." />
-            <marker date="1552328964535" expanded="true" signature="158:1598" ph="{...}" />
-            <marker date="1552328964535" expanded="true" signature="315:1517" ph="{...}" />
-            <marker date="1552328964535" expanded="true" signature="455:868" ph="{...}" />
-            <marker date="1552328964535" expanded="true" signature="577:674" ph="{...}" />
-            <marker date="1552328964535" expanded="true" signature="877:944" ph="/* else //if the file does exist ... */" />
-            <marker date="1552328964535" expanded="true" signature="1063:1499" ph="{...}" />
-            <marker date="1552328964535" expanded="true" signature="1575:1596" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeLab-2019-HW5/Assets/Scripts/levelLoader.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
-          <folding>
-            <marker date="1552333684242" expanded="false" signature="6:111" ph="..." />
-            <marker date="1552333684242" expanded="true" signature="154:1563" ph="{...}" />
-            <marker date="1552333684242" expanded="true" signature="226:1482" ph="{...}" />
-            <marker date="1552333684242" expanded="true" signature="333:412" ph="{...}" />
-            <marker date="1552333684242" expanded="true" signature="525:1336" ph="{...}" />
-            <marker date="1552333684242" expanded="true" signature="629:1326" ph="{...}" />
-            <marker date="1552333684242" expanded="true" signature="658:1198" ph="/* if (line[x] == 'X') ... */" />
-            <marker date="1552333684242" expanded="true" signature="1264:1312" ph="{...}" />
-            <marker date="1552333684242" expanded="true" signature="1346:1476" ph="/* if (line[0] == &quot;X&quot;) ... */" />
-            <marker date="1552333684242" expanded="true" signature="1540:1561" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeLab-2019-HW5/Assets/Scripts/HighScoreManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
