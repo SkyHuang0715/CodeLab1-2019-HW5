@@ -1,10 +1,10 @@
 XXXXXXXXXXXXXXX
-XX----------XXX
-XXX---XXX----XX
+XX-T--------XXX
+XXX---XXXT---XX
 X----XXX----T-X
 XT----XXX---XXX
 X---XXX----XXXX
-X--T--XXXT--XXX
-XXXXX---XX----X
-XP----XXXG----X
+X-T---XXXT--XXX
+XXXXX---XX--T-X
+XP----XXXG---TX
 XXXXXXXXXXXXXXX

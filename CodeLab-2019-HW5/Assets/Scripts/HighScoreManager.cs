@@ -47,7 +47,7 @@ public class HighScoreManager : MonoBehaviour
                 string name = splitLine[0]; //ex: "ANN"
                 int score = Int32.Parse(splitLine[1]);// ex: 10
 
-                hsNames.Add(name); //put name in my list of naems
+                hsNames.Add(name); //put name in my list of names
                 hsScores.Add(score); //put score in my list of scores
                 
 
