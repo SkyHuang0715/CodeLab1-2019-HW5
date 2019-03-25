@@ -9,8 +9,11 @@
         <e p="highScore.txt" t="Include" />
         <e p="level0.txt" t="Include" />
         <e p="Scripts" t="Include">
+          <e p="Achievegoal.cs" t="Include" />
+          <e p="GoalScore.cs" t="Include" />
           <e p="HighScoreManager.cs" t="Include" />
           <e p="levelLoader.cs" t="Include" />
+          <e p="OnTrap.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
         </e>
       </e>
